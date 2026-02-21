@@ -10,7 +10,7 @@
     "getStarted": "开始使用"
   },
   "navbar": {
-    "brand": "angelpro"
+    "brand": "AngelPro"  // 建议首字母大写，保持品牌一致性
   },
   "hero": {
     "tagline": "AI驱动的药物发现",
@@ -20,7 +20,7 @@
     "pipelineButton": "查看研发管线"
   },
   "valueProps": {
-    "title": "为什么选择AngelPro",
+    "title": "为什么选择 AngelPro",  // 加空格让品牌名更突出
     "items": {
       "ai": {
         "title": "AI驱动发现",
@@ -36,7 +36,7 @@
       },
       "expertise": {
         "title": "领域专业知识",
-        "description": "计算生物学家、药物化学家和AI专家的专业团队"
+        "description": "计算生物学家、药物化学家和AI专家组成的专业团队"  // 加“组成的”使语句更通顺
       }
     }
   },
@@ -60,6 +60,6 @@
     "technology": "技术",
     "resources": "资源",
     "contact": "联系",
-    "rights": "保留所有权利。"
+    "rights": "版权所有"  // 或者“© AngelPro 保留所有权利。”更常见
   }
 }
