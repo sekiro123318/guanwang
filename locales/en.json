@@ -1,0 +1,65 @@
+{
+  "common": {
+    "home": "Home",
+    "technology": "Technology",
+    "pipeline": "Pipeline",
+    "contact": "Contact",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "explore": "Explore",
+    "getStarted": "Get Started"
+  },
+  "navbar": {
+    "brand": "angelpro"
+  },
+  "hero": {
+    "tagline": "AI-Powered Drug Discovery",
+    "title": "AI-Driven Drug Discovery Across Small Molecules, Peptides & TCM",
+    "description": "Integrating computational biology and machine learning to accelerate breakthrough therapies from discovery to IND",
+    "technologyButton": "Explore Technology",
+    "pipelineButton": "View Pipeline"
+  },
+  "valueProps": {
+    "title": "Why Choose AngelPro",
+    "items": {
+      "ai": {
+        "title": "AI-Driven Discovery",
+        "description": "Leverage machine learning to identify novel drug candidates with higher success rates"
+      },
+      "speed": {
+        "title": "Accelerated Timelines",
+        "description": "Reduce discovery timelines by 50% compared to traditional methods"
+      },
+      "platform": {
+        "title": "Integrated Platform",
+        "description": "End-to-end platform covering small molecules, peptides, and traditional medicine"
+      },
+      "expertise": {
+        "title": "Domain Expertise",
+        "description": "Team of computational biologists, medicinal chemists, and AI specialists"
+      }
+    }
+  },
+  "platforms": {
+    "title": "Our Technology Platforms",
+    "smallMolecules": {
+      "title": "Small Molecules Platform",
+      "description": "AI-driven discovery of novel small molecule therapeutics"
+    },
+    "peptides": {
+      "title": "Peptides Platform",
+      "description": "Computational design of peptide-based therapeutics"
+    },
+    "tcm": {
+      "title": "Traditional Chinese Medicine",
+      "description": "Modernizing traditional medicine through AI analysis"
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "technology": "Technology",
+    "resources": "Resources",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}

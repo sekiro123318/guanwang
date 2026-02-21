@@ -1,0 +1,65 @@
+{
+  "common": {
+    "home": "首页",
+    "technology": "技术平台",
+    "pipeline": "研发管线",
+    "contact": "联系我们",
+    "learnMore": "了解更多",
+    "viewDetails": "查看详情",
+    "explore": "探索",
+    "getStarted": "开始使用"
+  },
+  "navbar": {
+    "brand": "angelpro"
+  },
+  "hero": {
+    "tagline": "AI驱动的药物发现",
+    "title": "AI驱动的小分子、多肽和中药药物发现",
+    "description": "整合计算生物学和机器学习，从药物发现到IND申报，加速突破性疗法的开发",
+    "technologyButton": "探索技术平台",
+    "pipelineButton": "查看研发管线"
+  },
+  "valueProps": {
+    "title": "为什么选择AngelPro",
+    "items": {
+      "ai": {
+        "title": "AI驱动发现",
+        "description": "利用机器学习识别具有更高成功率的创新候选药物"
+      },
+      "speed": {
+        "title": "加速时间线",
+        "description": "与传统方法相比，将发现时间缩短50%"
+      },
+      "platform": {
+        "title": "集成平台",
+        "description": "端到端平台覆盖小分子、多肽和传统药物"
+      },
+      "expertise": {
+        "title": "领域专业知识",
+        "description": "计算生物学家、药物化学家和AI专家的专业团队"
+      }
+    }
+  },
+  "platforms": {
+    "title": "我们的技术平台",
+    "smallMolecules": {
+      "title": "小分子药物平台",
+      "description": "AI驱动的新型小分子治疗药物发现"
+    },
+    "peptides": {
+      "title": "多肽药物平台",
+      "description": "基于多肽的治疗药物的计算设计"
+    },
+    "tcm": {
+      "title": "中药现代化平台",
+      "description": "通过AI分析实现传统中药现代化"
+    }
+  },
+  "footer": {
+    "company": "公司",
+    "technology": "技术",
+    "resources": "资源",
+    "contact": "联系",
+    "rights": "保留所有权利。"
+  }
+}
